@@ -37,11 +37,14 @@ INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/generic/babel-russian/russianb.ldf
 INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/generic/babel-russian/russianb.ldf
 INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
 INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
+INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT d:/LaTeX/userfiles/cv/cv.aux
 INPUT d:/LaTeX/userfiles/cv/cv.aux
 OUTPUT d:/LaTeX/userfiles/cv/cv.aux
 INPUT c:/Users/User/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1728.tfm
 INPUT c:/Users/User/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1728.tfm
+INPUT c:/Users/User/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1200.tfm
 INPUT c:/Users/User/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT c:/Users/User/.texlive2019/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
 INPUT d:/LaTeX/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
@@ -53,6 +56,7 @@ INPUT d:/LaTeX/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT d:/LaTeX/userfiles/cv/cv.aux
 INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb
 INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb
 INPUT d:/LaTeX/texlive/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb
